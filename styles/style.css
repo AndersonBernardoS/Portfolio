@@ -175,8 +175,11 @@ body {
             font-weight: bold;
         }
 
-    .apresentacao__imagem {
-        width: 50%;
+    .apresentacao__conteudo__imagem {
+        display: flex;
+        flex-direction: column;
+        gap: 25rem;
+
     }
                                     
     .rodape {
