@@ -247,4 +247,14 @@ body {
         .apresentacao__conteudo {
             width: auto;
         }
+
+        .apresentacao__conteudo__imagem {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .apresentacao__incons__group  {
+            justify-content: center; 
+        }
     }
