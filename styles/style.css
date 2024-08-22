@@ -179,7 +179,6 @@ body {
         display: flex;
         flex-direction: column;
         gap: 25rem;
-
     }
                                     
     .rodape {
@@ -229,7 +228,7 @@ body {
         color: var(--cor-certificados);
     }
 
-    
+
     @media (max-width: 1200px) {
         
         .cabecalho {
