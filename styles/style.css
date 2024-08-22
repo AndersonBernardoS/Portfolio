@@ -229,6 +229,7 @@ body {
         color: var(--cor-certificados);
     }
 
+    
     @media (max-width: 1200px) {
         
         .cabecalho {
